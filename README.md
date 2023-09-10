@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Soumya Agarwal,currently 🌱 pursuing my BTech from ABESIT College of Engineering, Ghaziabad with the specialization in data science.I have industry training experience with Edunet TechSaksham program on FullStack and CloudComputing. I am into Software Development in java and machine learning. Iam currently looking for internship opportunities in any domain.
 
 <!--
 **soumya140602/soumya140602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
